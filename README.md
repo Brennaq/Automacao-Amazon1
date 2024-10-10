@@ -1,4 +1,4 @@
-# Projeto de Automação da página Amazon BR
+# Projeto de Automação da página Amazon BR com Python e Selenium
 
 ## Iniciando meu primeiro projeto com automação
 
